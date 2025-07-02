@@ -5,6 +5,14 @@ body {
     color: gray;
     font-size: 21px;
 }
+div{
+    margin-bottom: 20px;
+
+}
+p {
+    font-size: 21px;
+    color: gray;
+}
 
 h1 {
     font-size: 50px;
